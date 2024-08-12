@@ -1,0 +1,20 @@
+hell Sirak demo2
+scham@LAPTOP-LNK299FD MINGW64 ~
+$ git --version
+git version 2.37.0.windows.1
+
+scham@LAPTOP-LNK299FD MINGW64 ~
+$ git config --global user.email schamiso17@gmail.com
+
+scham@LAPTOP-LNK299FD MINGW64 ~
+$ git config --global user.name "schamiso17"
+
+scham@LAPTOP-LNK299FD MINGW64 ~
+$
+creating remote repostory
+$ git config --list
+clone
+  choose location in computer
+  we run the git bash from choosen folder
+  clone
+Tracking the change using three stage workflow
